@@ -1,5 +1,3 @@
----
-
 ## Privacy Policy for Binary Calc
 
 **Last updated:** May 13, 2026
